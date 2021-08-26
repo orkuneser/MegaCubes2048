@@ -1,4 +1,0 @@
-key
-megacubes
-alias
-megacubes2048
